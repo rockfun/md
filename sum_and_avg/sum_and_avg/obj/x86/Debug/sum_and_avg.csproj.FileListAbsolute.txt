@@ -1,0 +1,4 @@
+D:\Git\md\sum_and_avg\sum_and_avg\bin\Debug\sum_and_avg.exe
+D:\Git\md\sum_and_avg\sum_and_avg\bin\Debug\sum_and_avg.pdb
+D:\Git\md\sum_and_avg\sum_and_avg\obj\x86\Debug\sum_and_avg.exe
+D:\Git\md\sum_and_avg\sum_and_avg\obj\x86\Debug\sum_and_avg.pdb
